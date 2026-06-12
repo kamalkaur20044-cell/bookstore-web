@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f3ea8" />
+      <stop offset="100%" stop-color="#1849c2" />
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb63a" />
+      <stop offset="100%" stop-color="#f99a0d" />
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path d="M360 112H192v22h168v-22z" fill="url(#blueGrad)" />
+    <path d="M258 112h76v56c0 24-16 44-36 44s-36-20-36-44v-56z" fill="url(#blueGrad)" />
+    <path d="M444 112h76v56c0 24-16 44-36 44s-36-20-36-44v-56z" fill="url(#blueGrad)" opacity="0.9" />
+    <path d="M194 184c0 39 32 70 72 70h188c40 0 72-31 72-70v-16H194v16z" fill="url(#blueGrad)" />
+    <path d="M213 260l-86 72c36-5 96-16 131-37 64-40 127-37 183-19 27 8 57 18 92 26l-103-69h-217z" fill="url(#blueGrad)" />
+    <path d="M528 330c-8 10-20 18-35 18-17 0-30-10-40-20-42-46-110-72-172-60-39 8-70 29-86 58-18 34-4 18-76 64l-38 33c36-5 96-16 131-37 64-40 127-37 183-19 27 8 57 18 92 26z" fill="url(#blueGrad)" opacity="0.85" />
+    <path d="M360 120l82-38 82 38v16H360v-16z" fill="url(#blueGrad)" />
+    <path d="M360 92l140 44-140-2-140 2 140-44z" fill="none" stroke="url(#blueGrad)" stroke-width="18" stroke-linecap="round" />
+    <path d="M560 120h20v16h-20z" fill="url(#blueGrad)" />
+    <path d="M555 136l25 2v-20" fill="none" stroke="url(#blueGrad)" stroke-width="12" stroke-linecap="round" />
+    <path d="M560 136l-25 2" fill="none" stroke="url(#blueGrad)" stroke-width="12" stroke-linecap="round" />
+    <path d="M510 120v100" fill="none" stroke="#0f3ea8" stroke-width="10" stroke-linecap="round" />
+    <path d="M460 130c12-12 34-22 54-22" fill="none" stroke="#0f3ea8" stroke-width="16" stroke-linecap="round" />
+  </g>
+
+  <text x="115" y="575" font-family="Segoe Script, cursive" font-size="96" fill="url(#orangeGrad)">Book Sphere</text>
+  <text x="115" y="620" font-family="Segoe Script, cursive" font-size="26" fill="#b07d13" opacity="0.9">books • knowledge • inspiration</text>
+</svg>
